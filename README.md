@@ -1,2 +1,2 @@
 # pythonexample
-this is a user friendly lamguage
+this description about the python language
